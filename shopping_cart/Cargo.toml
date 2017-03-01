@@ -1,0 +1,6 @@
+[package]
+name = "shopping_cart"
+version = "0.1.0"
+authors = ["Jason Carty <jcarty@blueyonder.co.uk"]
+
+[dependencies]
